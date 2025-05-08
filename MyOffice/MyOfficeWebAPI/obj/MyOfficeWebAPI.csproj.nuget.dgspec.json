@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\BuildSchool課程\\Chia_Homework\\MyOffice\\MyOfficeWebAPI\\MyOfficeWebAPI.csproj": {}
+    "C:\\BuildSchool課程\\水星科技考試\\MyOfficeWebAPI\\MyOffice\\MyOfficeWebAPI\\MyOfficeWebAPI.csproj": {}
   },
   "projects": {
-    "C:\\BuildSchool課程\\Chia_Homework\\MyOffice\\MyOfficeWebAPI\\MyOfficeWebAPI.csproj": {
+    "C:\\BuildSchool課程\\水星科技考試\\MyOfficeWebAPI\\MyOffice\\MyOfficeWebAPI\\MyOfficeWebAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\BuildSchool課程\\Chia_Homework\\MyOffice\\MyOfficeWebAPI\\MyOfficeWebAPI.csproj",
+        "projectUniqueName": "C:\\BuildSchool課程\\水星科技考試\\MyOfficeWebAPI\\MyOffice\\MyOfficeWebAPI\\MyOfficeWebAPI.csproj",
         "projectName": "MyOfficeWebAPI",
-        "projectPath": "C:\\BuildSchool課程\\Chia_Homework\\MyOffice\\MyOfficeWebAPI\\MyOfficeWebAPI.csproj",
+        "projectPath": "C:\\BuildSchool課程\\水星科技考試\\MyOfficeWebAPI\\MyOffice\\MyOfficeWebAPI\\MyOfficeWebAPI.csproj",
         "packagesPath": "C:\\Users\\blueh\\.nuget\\packages\\",
-        "outputPath": "C:\\BuildSchool課程\\Chia_Homework\\MyOffice\\MyOfficeWebAPI\\obj\\",
+        "outputPath": "C:\\BuildSchool課程\\水星科技考試\\MyOfficeWebAPI\\MyOffice\\MyOfficeWebAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

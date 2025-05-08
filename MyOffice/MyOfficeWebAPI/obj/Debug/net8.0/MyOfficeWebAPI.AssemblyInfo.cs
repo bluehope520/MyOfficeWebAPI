@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MyOfficeWebAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1a867848087f3978901ce9bd59a4f7dcb585f562")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8aca1953d8145cf907328863cc373ccd13714780")]
 [assembly: System.Reflection.AssemblyProductAttribute("MyOfficeWebAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MyOfficeWebAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
